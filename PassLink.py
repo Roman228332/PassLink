@@ -25,7 +25,7 @@ def open_ds():
 
 # Создаем окно
 okno = tk.Tk()
-okno.title("                                                                                                                                                                    Система хранения необходимых ссылок")
+okno.title("PassLink")                                                                                                                                                                  Система хранения необходимых ссылок")
 okno.geometry("1280x720")
 # Создаем виджет вкладок
 tab_control = ttk.Notebook(okno)
